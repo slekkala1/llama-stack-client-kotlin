@@ -563,3 +563,7 @@ We'd like to extend our thanks to the ExecuTorch team for providing their suppor
 ---
 
 The API interface is generated using the OpenAPI standard with [Stainless](https://www.stainlessapi.com/).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

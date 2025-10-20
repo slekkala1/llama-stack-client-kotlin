@@ -1,3 +1,10 @@
+#!/bin/bash
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+#
+# This source code is licensed under the terms described in the LICENSE file in
+# the root directory of this source tree.
+
 # Skip Prism mock test. If you want to enable this (SKIP_MOCK_TESTS=false), you will need to setup Prism server.
 # You can follow the error instructions on how to setup and run a server prism
 export SKIP_MOCK_TESTS=true
